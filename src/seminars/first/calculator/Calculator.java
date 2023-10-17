@@ -1,4 +1,4 @@
-package seminars.first.Calculator;
+package seminars.first.calculator;
 
 public class Calculator {
     public static int calculation(int firstOperand, int secondOperand, char operator) {
